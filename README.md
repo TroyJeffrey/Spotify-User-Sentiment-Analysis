@@ -8,8 +8,6 @@ This project provided critical data-driven insights into user perceptions of the
 
 The project's findings contribute to enhancing user experiences, guiding product updates, and fostering data-informed decision-making within the music streaming industry.
 
-Feel free to tailor and expand upon this description as needed for your resume or portfolio.
-
 
 
 
